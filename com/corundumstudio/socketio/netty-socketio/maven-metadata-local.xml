@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.corundumstudio.socketio</groupId>
+  <artifactId>netty-socketio</artifactId>
+  <versioning>
+    <versions>
+      <version>1.7.19-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210403093332</lastUpdated>
+  </versioning>
+</metadata>
